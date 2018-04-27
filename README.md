@@ -1,4 +1,4 @@
-# Music Website Template
+# Portfolio Website Template
 
 Free website template built for professionals to market their skills and showcase their projects. Website features a responsive design, animated links and buttons, and responsive picture tiles and modal.
 
@@ -19,8 +19,8 @@ Edit your portfolio pages and other pages:
 
 1) Copy your pictures to dir /pictures/
 2) Substitute your picture name in classes ".a, .b, .c", ect... in style.css
-3a) Portfolio page: Substitute your page link in class "grid" in index.html
-3b) Other pages: Substitute your picture name in class "grid" in index.html for the modal
+3) Portfolio page: Substitute your page link in class "grid" in index.html
+4) Other pages: Substitute your picture name in class "grid" in index.html for the modal
 
 
 ## Built With
