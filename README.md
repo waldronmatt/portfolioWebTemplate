@@ -17,10 +17,11 @@ Home page - edit the following (from top to bottom)
 
 Edit your portfolio pages and other pages:
 
-1) Copy your pictures to dir /pictures/
-2) Substitute your picture name in classes ".a, .b, .c", ect... in style.css
-3) Portfolio page: Substitute your page link in class "grid" in index.html
-4) Other pages: Substitute your picture name in class "grid" in index.html for the modal
+1) Compress your pictures to optimize load time
+2) Copy your pictures to dir /pictures/
+3) Substitute your picture name in classes ".a, .b, .c", ect... in style.css
+4) Portfolio page: Substitute your page link in class "grid" in index.html
+5) Other pages: Substitute your picture name in class "grid" in index.html for the modal
 
 
 ## Built With
@@ -31,7 +32,7 @@ Edit your portfolio pages and other pages:
 
 ## Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with Matthew Waldron before making a change.
+When contributing to this repository, you may fork and submit a pull request. Add a description of what you are doing and I'll review it.
 
 ## Versioning
 
