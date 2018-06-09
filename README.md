@@ -1,6 +1,8 @@
 # Portfolio Website Template
 
-Free website template built for professionals to market their skills and showcase their projects. Website features a responsive design, animated links and buttons, and responsive picture tiles and modal.
+Free website template built for professionals to market their skills and showcase their projects. 
+
+Website features a responsive design, animated links and buttons, and responsive picture tiles and modal.
 
 To view a live demo of this website, go to: http://waldronmatthew.com/portfolio/portfolio/index.html
 
