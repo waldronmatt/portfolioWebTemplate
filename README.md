@@ -30,7 +30,7 @@ Edit your portfolio pages and other pages:
 
 * HTML5
 * CSS3
-* JQuery / Javascript
+* jQuery/JavaScript
 
 ## Contributing
 
