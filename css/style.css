@@ -10,7 +10,7 @@ body {
 	}
 }
 
-h1, h2, p {
+h1, h2, h3, p {
 	font-family: 'Tajawal', sans-serif;
 	display: block; 
 	text-align: center;
@@ -237,10 +237,6 @@ a {
 		margin: auto;
 		width: 50%;
 	}
-	
-	.one-center .grid_link {
-		padding-bottom: 80%;
-	}
 }
 
 @media all and (min-width: 1440px) {
@@ -267,9 +263,5 @@ a {
 	.one-center {
 		margin: auto;
 		width: 33.3%;
-	}
-		
-	.one-center .grid_link {
-		padding-bottom: 80%;
 	}
 }
