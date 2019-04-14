@@ -20,7 +20,7 @@ To view a live demo of this website, go to: http://waldronmatthew.com/portfolio/
 
 Picture code block
 
-'''
+```
 <div class="grid">
 	<div class="grid_item two-center span" style="background-image:url('pictures/mnt1.jpg');">
         <a href="pictures/mnt1.jpg" class="grid_link" data-lightbox="p2" data-title="mnt1">
@@ -33,18 +33,19 @@ Picture code block
         </a>
     </div>
 </div>
-'''
+```
 
 Container for pictures
-'''
+
+```
 class="grid"
-'''
+```
 
 Picture layout
 
-'''
+```
 class="grid_item two-center span"
-'''
+```
 
 * grid_item - picture display and positioning
 * span - picture width/responsiveness 
@@ -54,26 +55,27 @@ class="grid_item two-center span"
 
 Picture background image
 
-'''
+```
 style="background-image:url('pictures/mnt1.jpg');
-'''
+```
 
 Lightbox2 modal picture link and text container
 
-'''
+```
 href="pictures/mnt1.jpg" class="grid_link"
-'''
+```
 
 Lightbox2 modal image image set and image caption
 
-'''
+```
 data-lightbox="p2" data-title="mnt1"
-'''
+```
 
 Image text positioning, styling, and text
-'''
+
+```
 class="tile", <p>2 pictures</p>
-'''
+```
 
 ## Built With
 
