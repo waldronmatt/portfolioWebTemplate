@@ -117,6 +117,7 @@ a {
 .grid {
 	display: flex;
 	flex-wrap: wrap;
+    justify-content: center;
 	margin: 1.4em 0 .7em 0;
 }
 
@@ -248,14 +249,14 @@ a {
 	}
 	
 	.three-center {
-		margin-left: 12.5%;
-		margin-right: -12.5%;
+		/*margin-left: 12.5%;*/
+		/*margin-right: -12.5%;*/
 		width: 25%;
 	}
 
 	.two-center {
-		margin-left: 16.7%;
-		margin-right: -16.7%;
+		/*margin-left: 16.7%;*/
+		/*margin-right: -16.7%;*/
 		width: 33.3%;
 	}
 		
