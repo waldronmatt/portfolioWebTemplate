@@ -149,6 +149,8 @@ a {
 	display: block;
 	color: #000;
 	margin: .0625em;
+	-webkit-transition: ease-in-out .5s; /* Safari */
+	transition: ease-in-out .5s;
 }
 
 .tile {
@@ -159,7 +161,9 @@ a {
 	line-height: 50px;
 	padding: 5px;
     color: #fff;
-    background-color: rgba(0,0,0,0.7);
+	background-color: rgba(0,0,0,0.7);
+	-webkit-transition: ease-in-out .5s; /* Safari */
+	transition: ease-in-out .5s;
 }
 
 .tile p {
